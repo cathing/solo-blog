@@ -10,6 +10,7 @@ cathing 的个人博客
 
 ### 最新
 
+* [shell中的关系运算符](http://www.kidcaoblog.com/articles/2019/09/04/1567587133945.html)
 * [世界，你好！](http://www.kidcaoblog.com/hello-solo)
 
 
